@@ -1,4 +1,4 @@
-# Projeto 2: Calculadora Simples
+# Projeto 2.1: Calculadora Simples
 
 `Objetivo:` Criar uma calculadora que realiza as quatro operações aritméticas básicas com base
 em dois números fornecidos pelo utilizador.
